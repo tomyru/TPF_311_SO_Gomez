@@ -1,2 +1,3 @@
 uid=1002(u_dev) gid=1002(g_dev) groups=1002(g_dev),1003(g_infra)
 uid=1002(u_manager) gid=1002(g_manager) groups=1002(g_manager),1003(g_infra)
+uid=1002(u_sysadmin) gid=1002(g_sysadmin) groups=1002(g_sysadmin),1003(g_infra)
