@@ -1,0 +1,4 @@
+       Name                      Command               State                  Ports                
+---------------------------------------------------------------------------------------------------
+punto_f_db_1          docker-entrypoint.sh mariadbd    Up      3306/tcp                            
+punto_f_wordpress_1   docker-entrypoint.sh apach ...   Up      0.0.0.0:8080->80/tcp,:::8080->80/tcp
